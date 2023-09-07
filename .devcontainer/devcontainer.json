@@ -1,6 +1,6 @@
 {
 	"name": "Dev Container",
-	"build": { "dockerfile": "Dockerfile" },
+	"image": "ghcr.io/ins-uni-bonn/devcontainer:latest",
 
 	"workspaceMount": "",
 	"runArgs": [
